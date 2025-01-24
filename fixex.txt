@@ -1,2 +1,6 @@
 I am a fix file.
 Another fixed
+thirt bug fix
+fourth bug fix
+firth bug fix
+6th line added
